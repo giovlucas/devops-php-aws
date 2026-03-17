@@ -1,0 +1,15 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+
+# Docker
+*.tar
+
+# Logs
+*.log
+
+# OS
+.DS_Store
